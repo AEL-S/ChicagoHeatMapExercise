@@ -1,5 +1,5 @@
 # ChicagoHeatMapExercise
-This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. This "heat map" shows the concentration of crimes reported in Chicago in 2012. Lighter colors show areas with less crime and the opposite is true for darker areas on the map. 
+This "heat map" shows the concentration of crimes reported in Chicago in 2012. Lighter colors show areas with less crime and the opposite is true for darker areas on the map. 
 
 <img src="HeatMap.png" alt="Photo of Chicago Heat Map project" title="Chicago Heat Map">
 
